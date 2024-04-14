@@ -5,7 +5,7 @@ attrs==19.3.0
 beautifulsoup4==4.8.1
 bs4==0.0.1
 chardet==3.0.4
-idna==2.8
+idna==3.7
 Js2Py==0.66
 multidict==4.5.2
 pyjsparser==2.7.1
